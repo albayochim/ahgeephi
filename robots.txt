@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eepaiwichi.infiniteregress.co/sitemap.xml
